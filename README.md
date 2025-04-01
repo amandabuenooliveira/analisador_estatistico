@@ -6,7 +6,6 @@ Ele foi criado para facilitar a leitura de informações como:
 - Matrículas
 - Etapas de ensino
 - Tipos de escola (pública/privada)
-- Indicadores como IDEB
 - Dados numéricos por escola
 
 ---
