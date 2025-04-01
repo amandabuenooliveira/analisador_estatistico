@@ -1,0 +1,1 @@
+# analisador_estatistico
