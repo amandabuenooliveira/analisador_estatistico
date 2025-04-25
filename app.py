@@ -6,7 +6,7 @@ import seaborn as sns
 
 # Configurações iniciais da página
 st.set_page_config(page_title="Analisador de CSV", layout="wide")
-st.title("Analisador de Dados Educacionais (CSV)")
+st.title("Analisador de Dados (CSV)")
 
 # Upload do arquivo CSV
 uploaded_file = st.file_uploader("Carregue um arquivo CSV", type="csv")
