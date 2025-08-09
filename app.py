@@ -153,3 +153,5 @@ st.bar_chart(top_mot)
 st.subheader("Detalhe dos Registros")
 st.dataframe(flt)
 st.download_button("⬇️ Baixar dados filtrados", flt.to_csv(index=False).encode("utf-8-sig"), "atendimentos.csv")
+
+
